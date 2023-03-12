@@ -39,3 +39,5 @@ If you use the code, please cite
     S. Li, Y. Abu Farha, Y. Liu, MM. Cheng,  and J. Gall.
     MS-TCN++: Multi-Stage Temporal Convolutional Network for Action Segmentation.
     In IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020
+
+change test
